@@ -1,5 +1,5 @@
 streamlit == 1.46.1
-seaborn = 0.13.2
+seaborn == 0.13.2
 plotly == 6.2.0
 scipy == 1.16.0
 pandas == 2.3.0
